@@ -1,1 +1,2 @@
 Added feature update content.
+Fixed some bugs.
